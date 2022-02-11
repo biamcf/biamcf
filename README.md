@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Beatriz Moreira
 
 <div>
-  <img height=170em width=40% src='https://github-readme-stats.vercel.app/api?username=biamcf&count_private=true&show_icons=true&theme=cobalt'>
-  <img height=170em width=40% src='https://github-readme-stats.vercel.app/api/top-langs/?username=biamcf&theme=cobalt&langs_count=16&layout=compact'>
+  <img height=180em width=60% src='https://github-readme-stats.vercel.app/api?username=biamcf&count_private=true&show_icons=true&theme=cobalt'>
+  <img height=180em width=30% src='https://github-readme-stats.vercel.app/api/top-langs/?username=biamcf&theme=cobalt&langs_count=16&layout=compact'>
   
 </div>
 
